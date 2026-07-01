@@ -11,7 +11,7 @@ Sou graduanda em **Tecnologia em Ciência de Dados**, apaixonada por transformar
 
 ## 📊 Projetos
 Aqui você vai encontrar:
-- Consultas SQL aplicadas a cenários fictícios (ex.: empresa Brazil Tech)  
+- Consultas SQL aplicadas a cenários fictícios
 - Dashboards interativos em Power BI  
 - Scripts em Python para análise e manipulação de dados  
 - Estudos e experimentos em estatística e mineração de dados  

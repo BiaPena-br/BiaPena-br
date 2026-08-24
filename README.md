@@ -72,14 +72,14 @@
 
 **Concluído**
 
-Projeto desenvolvido durante os estudos de SQL, explorando consultas, relacionamentos, filtros, agregações e manipulação de dados.
+Queries SQL desenvolvidas para análise de dados e resolução de problemas de negócio.
 
-`SQL` `Database` `Queries`
+`SQL` `Data Analysis` `Queries`
 
 <br>
 
-<a href="https://github.com/BiaPena-br">
-<img src="https://img.shields.io/badge/VIEW-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+<a href="https://github.com/BiaPena-br/Projetos-SQL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
 </a>
 
 </td>
@@ -90,14 +90,14 @@ Projeto desenvolvido durante os estudos de SQL, explorando consultas, relacionam
 
 **Em evolução**
 
-Repositório dedicado a estudos, exercícios e projetos práticos desenvolvidos durante a evolução com Python.
+Repositório dedicado aos meus estudos práticos, exercícios e desenvolvimento de habilidades em Python.
 
-`Python` `Logic` `Backend`
+`Python` `Programming` `Backend`
 
 <br>
 
-<a href="https://github.com/BiaPena-br">
-<img src="https://img.shields.io/badge/VIEW-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+<a href="https://github.com/BiaPena-br/estudos-python">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
 </a>
 
 </td>
@@ -108,14 +108,14 @@ Repositório dedicado a estudos, exercícios e projetos práticos desenvolvidos 
 
 **Projeto em grupo**
 
-Pipeline de ETL para coleta, transformação e análise de dados de criptomoedas.
+Projeto desenvolvido em colaboração com a comunidade Girls Dev, envolvendo ETL e processamento de dados relacionados a criptomoedas.
 
-`Python` `ETL` `Crypto`
+`Python` `ETL` `Crypto` `Data`
 
 <br>
 
-<a href="https://github.com/BiaPena-br">
-<img src="https://img.shields.io/badge/VIEW-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+<a href="https://github.com/orgs/girls-dev-br/repositories">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
 </a>
 
 </td>

@@ -20,9 +20,5 @@ jobs:
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update contribution snake"
-          add: "output/*.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

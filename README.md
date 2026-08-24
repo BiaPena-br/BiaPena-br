@@ -1,60 +1,213 @@
 <div align="center">
-  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0d1117" style="border-radius: 8px; border: 1px solid #30363d; font-family: monospace; color: #58a6ff;">
-    <tr>
-      <td style="padding: 20px; text-align: center;">
-        <span style="color: #8b949e;">+----------------------------------------------------------+</span><br>
-        <span style="color: #8b949e;">|</span>                                                          <span style="color: #8b949e;">|</span><br>
-        <span style="color: #8b949e;">|</span>   <span style="color: #ff7b72;">&gt;</span> <span style="color: #c9d1d9; font-weight: bold;">Olá, eu sou a Bianca Pena!</span>                            <span style="color: #8b949e;">|</span><br>
-        <span style="color: #8b949e;">|</span>   <span style="color: #ff7b72;">&gt;</span> <span style="color: #79c0ff;">Software Engineer | Backend</span>                          <span style="color: #8b949e;">|</span><br>
-        <span style="color: #8b949e;">|</span>   <span style="color: #ff7b72;">&gt;</span> <span style="color: #d2a8ff;">Building Scalable Systems ⚡</span>                        <span style="color: #8b949e;">|</span><br>
-        <span style="color: #8b949e;">|</span>                                                          <span style="color: #8b949e;">|</span><br>
-        <span style="color: #8b949e;">+----------------------------------------------------------+</span>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=BiaPena-br&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,45:30105C,100:A855F7&text=BIANCA%20PENA&fontColor=E9D5FF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Welcome+to+my+world.;%3E+Software+Engineer;%3E+Backend+Developer;%3E+Python+%7C+FastAPI+%7C+Django;%3E+Cloud+%7C+Distributed+Systems" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/BACKEND-ENGINEER-1A102B?style=for-the-badge&logo=python&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/PYTHON-POWERED-1A102B?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/AWS-CLOUD-1A102B?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 </div>
 
 ---
 
-### 💻 Sobre Mim
+## `> ./about`
 
-Desenvolvedora **Backend** com foco em arquiteturas robustas, desenvolvimento de APIs, sistemas escaláveis e regras de negócio de alto desempenho. Experiência em modelagem de dados, engenharia de software e integração de serviços.
-
----
-
-### 🚀 Stacks & Tecnologias
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</p>
+```text
+╭────────────────────────────────────────────────────╮
+│                 BIANCA PENA // ENGINEER            │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  Software Engineer focada em Backend.             │
+│                                                    │
+│  Construo APIs, sistemas escaláveis e soluções     │
+│  utilizando Python, cloud, bancos de dados e       │
+│  tecnologias distribuídas.                        │
+│                                                    │
+│  Foco: performance • arquitetura • automação       │
+│        escalabilidade • código limpo               │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
 
 ---
 
-### ⚙️ O que você vai encontrar por aqui
-
-* 🔌 Desenvolvimento e consumo de APIs RESTful e microsserviços.
-* 📦 Arquiteturas limpas, código estruturado e boas práticas de engenharia de software.
-* ⚡ Processamento distribuído e integração com sistemas de mensageria em tempo real.
-* 🗄️ Modelagem, otimização e gerenciamento de bancos de dados relacionais e não relacionais.
-* 🛡️ Automação de testes, segurança e monitoramento de aplicações.
-
----
-
-### 📊 Estatísticas do GitHub
+## `> ./tech-stack`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiaPena-br&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bianca's GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaPena-br&layout=compact&theme=tokyonight&hide_border=true" alt="Bianca's Top Languages" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,aws,docker,linux,kafka,postgres,redis,mongodb,git&theme=dark" />
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-12051F?style=for-the-badge&logo=python&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/FastAPI-12051F?style=for-the-badge&logo=fastapi&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Django-12051F?style=for-the-badge&logo=django&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/AWS-12051F?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-12051F?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kafka-12051F?style=for-the-badge&logo=apachekafka&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/PostgreSQL-12051F?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Redis-12051F?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/MongoDB-12051F?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+</div>
+
+---
+
+# `> ./projects`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🗄️ SQL
+
+**Concluído**
+
+Projeto desenvolvido durante os estudos de SQL, explorando consultas, relacionamentos, filtros, agregações e manipulação de dados.
+
+`SQL` `Database` `Queries`
+
+<br>
+
+<a href="https://github.com/BiaPena-br">
+<img src="https://img.shields.io/badge/VIEW-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🐍 Python Studies
+
+**Em evolução**
+
+Repositório dedicado a estudos, exercícios e projetos práticos desenvolvidos durante a evolução com Python.
+
+`Python` `Logic` `Backend`
+
+<br>
+
+<a href="https://github.com/BiaPena-br">
+<img src="https://img.shields.io/badge/VIEW-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ₿ Crypto ETL
+
+**Projeto em grupo**
+
+Pipeline de ETL para coleta, transformação e análise de dados de criptomoedas.
+
+`Python` `ETL` `Crypto`
+
+<br>
+
+<a href="https://github.com/BiaPena-br">
+<img src="https://img.shields.io/badge/VIEW-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `> ./current-mission`
+
+```bash
+$ cat objectives.txt
+
+[01] ████████████████████  Backend Engineering
+[02] █████████████████░░░  Python & APIs
+[03] ████████████████░░░░  AWS & Cloud
+[04] ███████████████░░░░░  Distributed Systems
+
+STATUS: MISSION_IN_PROGRESS
+```
+
+---
+
+## `> ./github --stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BiaPena-br&show_icons=true&hide_border=true&count_private=true&bg_color=12051F&title_color=C084FC&icon_color=C084FC&text_color=E9D5FF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaPena-br&layout=compact&hide_border=true&langs_count=6&bg_color=12051F&title_color=C084FC&text_color=E9D5FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BiaPena-br&theme=dark&hide_border=true&background=12051F&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" width="70%"/>
+
+</div>
+
+---
+
+## `> ./activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiaPena-br&bg_color=12051F&color=E9D5FF&line=C084FC&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+## `> ./trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BiaPena-br&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+---
+
+## `> ./contributions --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiaPena-br/BiaPena-br/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiaPena-br/BiaPena-br/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BiaPena-br/BiaPena-br/output/github-snake.svg" width="90%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       CODE  •  BUILD  •  SCALE  •  REPEAT       ║
+║                                                  ║
+║              BIANCA // ONLINE                   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:12051F,50:30105C,100:A855F7&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+

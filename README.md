@@ -1,14 +1,20 @@
 <div align="center">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3375FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Bianca+Pena+%F0%9F%91%8B;Software+Engineer+%7C+Backend;Building+Scalable+Systems+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0d1117" style="border-radius: 8px; border: 1px solid #30363d; font-family: monospace; color: #58a6ff;">
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <span style="color: #8b949e;">+----------------------------------------------------------+</span><br>
+        <span style="color: #8b949e;">|</span>                                                          <span style="color: #8b949e;">|</span><br>
+        <span style="color: #8b949e;">|</span>   <span style="color: #ff7b72;">&gt;</span> <span style="color: #c9d1d9; font-weight: bold;">Olá, eu sou a Bianca Pena!</span>                            <span style="color: #8b949e;">|</span><br>
+        <span style="color: #8b949e;">|</span>   <span style="color: #ff7b72;">&gt;</span> <span style="color: #79c0ff;">Software Engineer | Backend</span>                          <span style="color: #8b949e;">|</span><br>
+        <span style="color: #8b949e;">|</span>   <span style="color: #ff7b72;">&gt;</span> <span style="color: #d2a8ff;">Building Scalable Systems ⚡</span>                        <span style="color: #8b949e;">|</span><br>
+        <span style="color: #8b949e;">|</span>                                                          <span style="color: #8b949e;">|</span><br>
+        <span style="color: #8b949e;">+----------------------------------------------------------+</span>
+      </td>
+    </tr>
+  </table>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=BiaPena-br&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
@@ -48,9 +54,7 @@ Desenvolvedora **Backend** com foco em arquiteturas robustas, desenvolvimento de
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BiaPena-br&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaPena-br&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BiaPena-br&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bianca's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaPena-br&layout=compact&theme=tokyonight&hide_border=true" alt="Bianca's Top Languages" />
 </div>

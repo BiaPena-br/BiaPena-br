@@ -14,7 +14,7 @@
 
 ---
 
-## `> ./about`
+## `> About`
 
 ```text
 ╭────────────────────────────────────────────────────╮
@@ -35,7 +35,7 @@
 
 ---
 
-## `> ./tech-stack`
+## `> Tech-stack`
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# `> ./projects`
+# `> Projects`
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ Projeto desenvolvido em colaboração com a comunidade Girls Dev, envolvendo ETL
 
 ---
 
-## `> ./current-mission`
+## `> Current-mission`
 
 ```bash
 $ cat objectives.txt
@@ -140,7 +140,7 @@ STATUS: MISSION_IN_PROGRESS
 
 ---
 
-## `> ./github --stats`
+## `> Github --stats`
 
 <div align="center">
 
@@ -160,35 +160,11 @@ STATUS: MISSION_IN_PROGRESS
 
 ---
 
-## `> ./activity`
+## `> Activity`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiaPena-br&bg_color=12051F&color=E9D5FF&line=C084FC&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
-
-</div>
-
----
-
-## `> ./trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BiaPena-br&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## `> ./contributions --animate`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiaPena-br/BiaPena-br/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiaPena-br/BiaPena-br/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BiaPena-br/BiaPena-br/output/github-snake.svg" width="90%">
-</picture>
 
 </div>
 

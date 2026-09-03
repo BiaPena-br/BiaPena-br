@@ -75,17 +75,17 @@ Queries SQL desenvolvidas para análise de dados e resolução de problemas de n
 
 <td width="33%" valign="top">
 
-### 🐍 Python Studies
+### ☕ Java Studies
 
 **Concluído**
 
-Repositório dedicado aos meus estudos práticos, exercícios e desenvolvimento de habilidades em Python.
+Repositório dedicado aos meus estudos práticos, exercícios e desenvolvimento de habilidades em Java.
 
-`Python` `Programming` `Backend`
+`Java` `Programming` `Backend`
 
 <br>
 
-<a href="https://github.com/BiaPena-br/logica-listas-python">
+<a href="https://github.com/BiaPena-br/estudos-java">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
 </a>
 

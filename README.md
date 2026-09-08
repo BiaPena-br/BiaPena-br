@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,45:30105C,100:A855F7&text=BIANCA%20PENA&fontColor=E9D5FF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Welcome+to+my+world.;%3E+Software+Engineer;%3E+Backend+Developer;%3E+Java+%7C+Spring+Boot;%3E+Python;%3E+Cloud+%7C+Distributed+Systems" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Welcome+to+my+world." alt="Typing Animation"/>
 
 <br>
 

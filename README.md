@@ -28,7 +28,7 @@ Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,aws,docker,linux,kafka,postgres,redis,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,linux,kafka,postgres,redis,mongodb,git&theme=dark" />
 
 </div>
 
@@ -38,7 +38,6 @@ Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring 
 
 <img src="https://img.shields.io/badge/Java-12051F?style=for-the-badge&logo=openjdk&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/Spring_Boot-12051F?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Python-12051F?style=for-the-badge&logo=python&logoColor=C084FC"/>
 <img src="https://img.shields.io/badge/AWS-12051F?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Docker-12051F?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Kafka-12051F?style=for-the-badge&logo=apachekafka&logoColor=C084FC"/>
@@ -57,7 +56,7 @@ Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring 
 
 <td width="33%" valign="top">
 
-### 🗄️ SQL
+### SQL
 
 **Concluído**
 
@@ -75,9 +74,9 @@ Queries SQL desenvolvidas para análise de dados e resolução de problemas de n
 
 <td width="33%" valign="top">
 
-### ☕ Java Studies
+### Java Studies
 
-**Concluído**
+**Em andamento**
 
 Repositório dedicado aos meus estudos práticos, exercícios e desenvolvimento de habilidades em Java.
 
@@ -93,9 +92,31 @@ Repositório dedicado aos meus estudos práticos, exercícios e desenvolvimento 
 
 <td width="33%" valign="top">
 
-### ₿ Crypto ETL
+### Hackathon SouJunior - 3º Lugar
+
+**Projeto em grupo**  
+**concluído**
+
+Desenvolvimento de uma landing page para a plataforma SouJunior integrada ao Apoia.se, visando captar novos apoiadores e fortalecer a comunidade. Conquistamos o 3º lugar no hackathon.
+
+`Java` `Landing Page` `Css` `HTML` `Javascript`
+
+<br>
+
+<a href="https://github.com/Girls-In-Cortex/soujunior-apoiase-landingpage">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### Crypto ETL
 
 **Projeto em grupo**
+**concluído**
 
 Projeto desenvolvido em colaboração com a comunidade Girls Dev, envolvendo ETL e processamento de dados relacionados a criptomoedas.
 

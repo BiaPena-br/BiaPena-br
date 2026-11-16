@@ -163,24 +163,6 @@ $ cat objectives.txt
 
 STATUS: MISSION_IN_PROGRESS
 ---
-## `> Github --stats`
-
-<div align="center">
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BiaPena-br&theme=dark&hide_border=true&background=12051F&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" width="70%"/>
-
-</div>
-
-</div>
-
----
 
 <div align="center">
 

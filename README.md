@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,45:30105C,100:A855F7&text=BIANCA%20PENA&fontColor=E9D5FF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,45:30105C,100:A855F7&text=BIANCA%20PENA&fontColor=E9D5FF&fontSize=52&fontAlignY=38&desc=CYBERSECURITY%&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Welcome+to+my+world." alt="Typing Animation"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/BACKEND-ENGINEER-1A102B?style=for-the-badge&logo=java&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/JAVA-POWERED-1A102B?style=for-the-badge&logo=openjdk&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/AWS-CLOUD-1A102B?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-BLUE_TEAM-1A102B?style=for-the-badge&logo=hackthebox&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/RED_TEAM-1A102B?style=for-the-badge&logo=kalilinux&logoColor=F43F5E"/>
+<img src="https://img.shields.io/badge/LINUX_%26_BASH-POWERED-1A102B?style=for-the-badge&logo=linux&logoColor=FF9900"/>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## `> About`
 
-Software Engineer focada em Backend.
+Profissional de **Segurança Cibernética** com atuação focada em **Blue Team, Red Team e operações de SOC**, aliando infraestrutura Linux e desenvolvimento de software à proteção e análise de sistemas.
 
-Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring Boot**, cloud, bancos de dados e tecnologias distribuídas. Python como segunda linguagem.
+Utilizo **Linux**, **Bash**, **Python** e **SQL** para análise de logs, automação de segurança, investigação de tráfego de rede e monitoramento de incidentes, aplicando base sólida em arquitetura backend (Java/Spring/Cloud) para identificar vulnerabilidades e fortalecer ambientes.
 
-**Foco:** performance • arquitetura • automação • escalabilidade • código limpo
+**Foco:** defesa cibernética • análise de logs • redes • automação • resposta a incidentes
 
 ---
 
@@ -28,7 +28,7 @@ Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,linux,kafka,postgres,redis,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,java,kali,ubuntu,docker,aws,postgres,git&theme=dark" />
 
 </div>
 
@@ -36,14 +36,14 @@ Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring 
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Linux-12051F?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Bash_Script-12051F?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Python-12051F?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Wireshark-12051F?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Kali_Linux-12051F?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/SQL-12051F?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/Java-12051F?style=for-the-badge&logo=openjdk&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/Spring_Boot-12051F?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/AWS-12051F?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Docker-12051F?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kafka-12051F?style=for-the-badge&logo=apachekafka&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/PostgreSQL-12051F?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Redis-12051F?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/MongoDB-12051F?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 
 </div>
 
@@ -56,11 +56,29 @@ Construo APIs, sistemas escaláveis e soluções utilizando **Java** e **Spring 
 
 <td width="33%" valign="top">
 
-### SQL
+### Linux & Bash Studies
+
+**Em andamento**
+
+Evolução dos meus estudos em Linux e Shell Script com comandos, automação de logs, exercícios práticos e dicas para Segurança Cibernética.
+
+`Linux` `Bash` `Blue Team` `Logs`
+
+<br>
+
+<a href="https://github.com/BiaPena-br/estudos-linux-bash">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### SQL & Data Analysis
 
 **Concluído**
 
-Queries SQL desenvolvidas para análise de dados e resolução de problemas de negócio.
+Queries SQL desenvolvidas para análise de dados, filtragem de registros e resolução de problemas de negócio.
 
 `SQL` `Data Analysis` `Queries`
 
@@ -74,53 +92,14 @@ Queries SQL desenvolvidas para análise de dados e resolução de problemas de n
 
 <td width="33%" valign="top">
 
-### Java Studies
-
-**Em andamento**
-
-Repositório dedicado aos meus estudos práticos, exercícios e desenvolvimento de habilidades em Java.
-
-`Java` `Programming` `Backend`
-
-<br>
-
-<a href="https://github.com/BiaPena-br/estudos-java">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### Hackathon SouJunior - 3º Lugar
+### Crypto ETL Pipeline
 
 **Projeto em grupo**  
-**concluído**
+**Concluído**
 
-Desenvolvimento de uma landing page para a plataforma SouJunior integrada ao Apoia.se, visando captar novos apoiadores e fortalecer a comunidade. Conquistamos o 3º lugar no hackathon.
+Pipeline de ingestão e processamento de dados em Python consumindo APIs em tempo real e carregando em PostgreSQL na nuvem.
 
-`Java` `Landing Page` `Css` `HTML` `Javascript`
-
-<br>
-
-<a href="https://github.com/Girls-In-Cortex/soujunior-apoiase-landingpage">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
-</a>
-
-</td>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### Crypto ETL
-
-**Projeto em grupo**
-**concluído**
-
-Projeto desenvolvido em colaboração com a comunidade Girls Dev, envolvendo ETL e processamento de dados relacionados a criptomoedas.
-
-`Python` `ETL` `Crypto` `Data`
+`Python` `ETL` `PostgreSQL` `APIs`
 
 <br>
 
@@ -131,22 +110,59 @@ Projeto desenvolvido em colaboração com a comunidade Girls Dev, envolvendo ETL
 </td>
 
 </tr>
+<tr>
+
+<td width="33%" valign="top">
+
+### Hackathon SouJunior - 3º Lugar
+
+**Projeto em grupo**  
+**Concluído**
+
+Desenvolvimento de infraestrutura de repositório, CI/CD e backend Java/Spring Boot com integração de API para captação de apoiadores.
+
+`Java` `Spring Boot` `CI/CD` `GitHub Actions`
+
+<br>
+
+<a href="https://github.com/Girls-In-Cortex/soujunior-apoiase-landingpage">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Java Studies
+
+**Em andamento**
+
+Repositório dedicado aos meus estudos de Programação Orientada a Objetos, lógica e desenvolvimento backend em Java.
+
+`Java` `OOP` `Backend`
+
+<br>
+
+<a href="https://github.com/BiaPena-br/estudos-java">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=12051F"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
-
 ```bash
 $ cat objectives.txt
 
-[01] ████████████████████  Backend Engineering
-[02] █████████████████░░░  Java & Spring Boot
-[03] ████████████████░░░░  AWS & Cloud
-[04] ███████████████░░░░░  Distributed Systems
+[01] ████████████████░░░░  Linux Administration & Bash Scripting
+[02] ████████████░░░░░░░░  Networking, TCP/IP & Wireshark
+[03] ██████████░░░░░░░░░░  Python for Security Automation
+[04] ████████░░░░░░░░░░░░  Blue Team, SIEM & SOC Operations
 
 STATUS: MISSION_IN_PROGRESS
-```
 ---
-
 ## `> Github --stats`
 
 <div align="center">
@@ -168,9 +184,10 @@ STATUS: MISSION_IN_PROGRESS
 
 <div align="center">
 
-**CODE • BUILD • SCALE • REPEAT**
+**MONITOR • DETECT • DEFEND • REPEAT**
 
 *BIANCA // ONLINE*
 
 </div>
+
 

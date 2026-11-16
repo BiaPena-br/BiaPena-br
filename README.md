@@ -162,14 +162,24 @@ $ cat objectives.txt
 [04] ████████░░░░░░░░░░░░  Blue Team, SIEM & SOC Operations
 
 STATUS: MISSION_IN_PROGRESS
+
+```
 ---
+
+## `> Github --stats`
 
 <div align="center">
 
-**MONITOR • DETECT • DEFEND • REPEAT**
-
-*BIANCA // ONLINE*
+<img src="https://streak-stats.demolab.com?user=BiaPena-br&theme=dark&hide_border=true&background=12051F&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" width="70%"/>
 
 </div>
 
+---
 
+---
+
+<p align="center">
+  <strong>MONITOR • DETECT • DEFEND • REPEAT</strong>
+  <br><br>
+  <em>BIANCA // ONLINE</em>
+</p>
